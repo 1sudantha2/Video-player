@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AeroPlayer</string>
+    <string name="open_video">Open Video</string>
+    <string name="open_stream">Stream URL</string>
+    <string name="sample_videos">Demo Gallery</string>
+    <string name="playback_history">History</string>
+    <string name="performance_stats">Nerd Stats</string>
+    <string name="eco_mode">Eco Power Mode</string>
+    <string name="volume_boost">Audio Boost</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="subtitles">Subtitles</string>
+    <string name="audio_track">Audio Tracks</string>
+    <string name="aspect_ratio">Aspect Ratio</string>
+    <string name="playback_speed">Speed</string>
+    <string name="repeat_ab">A-B Repeat</string>
+    <string name="lock_controls">Lock Screen</string>
+    <string name="pip_mode">Picture-in-Picture</string>
+</resources>

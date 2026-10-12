@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Play Triangle with Aero gradient -->
+    <path
+        android:pathData="M44,36 L72,54 L44,72 Z"
+        android:strokeWidth="1">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="44"
+                android:startY="36"
+                android:endX="72"
+                android:endY="72"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#00E5FF" />
+                <item android:offset="1.0" android:color="#00B0FF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Dynamic sound/speed arc -->
+    <path
+        android:pathData="M78,42 C84,49 84,59 78,66"
+        android:strokeColor="#FF9100"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+</vector>

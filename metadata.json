@@ -1,0 +1,6 @@
+{
+  "name": "AeroPlayer",
+  "description": "Ultra-lightweight, high-performance video player with gestures, hardware acceleration, and advanced playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
